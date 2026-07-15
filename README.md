@@ -5,3 +5,4 @@
 ## 실습
 
 - github 저장소 생성과 로컬 저장소 연결하기
+- git add, commit 다루기
